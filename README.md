@@ -11,7 +11,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Data%20Analyst;Machine%20Learning%20Learner;ECE%20Student;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p>
 
-- 👨‍💻 As an ECE Student, I'm constantly learning and exploring new technologies to improve my skills.
+- 👨‍💻 As an Electronics & Communication Engineer, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Python, SQL, Power BI, or anything related to data analysis.
 
 
