@@ -12,14 +12,14 @@
 </p>
 
 - 👨‍💻 As an Electronics & Communication Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with Python, SQL, Power BI, or anything related to data analysis.
+- 💬 Ask me about my experience with Python, SQL, Nlp, Data Analysis, or anything related to data Science.
 
 
 ## Other Common GitHub Profile Sections
 
-🧠 I'm currently learning Machine Learning and Data Science
+🧠 I'm currently learning AI and Data Science
 
-🤔 I'm looking for help with any Data Analysis Project 
+🤔 I'm looking ..
 
 
 ### Connect with Me :
