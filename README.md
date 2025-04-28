@@ -19,7 +19,6 @@
 
 🧠 I'm currently learning AI and Data Science
 
-🤔 I'm looking ..
 
 
 ### Connect with Me :
